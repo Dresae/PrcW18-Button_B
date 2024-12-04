@@ -1,7 +1,7 @@
 #  :bike: Delete Button With Minimal Animation
 
 ## :scroll: Overview 
-MoSAmple Description
+Sample Description
 
 ![screenshot](pics/screengif.gif)
 
